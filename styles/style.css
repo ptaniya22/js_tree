@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Rb_reg';
+}
+
+body {
+  background: black;
+}
+
+
+.wraper {
+  width: 700px;
+  height: 100%;
+  margin: 50px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.wraper-text {
+  color: aquamarine;
+  font-size: 30px;
+}
